@@ -1,0 +1,20 @@
+.InfoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-content {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
